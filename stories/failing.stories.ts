@@ -1,6 +1,6 @@
 
 export default {
-    title: 'Example/Declare',
+    title: 'Example/Failing',
     argTypes: {},
 };
 
